@@ -21,3 +21,26 @@ This table consists of Countries which i would recommed others to visit for thei
 
 > It is never too late to be what you might have been
 * Swami Vivekananda*
+
+---
+### Code Fencing
+
+ Questions tagged [jquery] ?
+
+ Code :https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/
+
+```
+$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshow > div:first')
+  .fadeOut(1000)
+  .next()
+  .fadeIn(1000)
+  .end()
+  .appendTo('#slideshow');
+}, 3000);
+
+```
+
+code snippet: https://stackoverflow.com/questions/tagged/jquery
