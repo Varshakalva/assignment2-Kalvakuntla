@@ -13,3 +13,11 @@ This table consists of Countries which i would recommed others to visit for thei
 | India           | Food,Culture and Traditions    |    10    |
 | United Kingdom  | Education and Scenic Places    |    12    |
 | Dubai           | Lavish Malls and Shopping      |    07    |
+
+---
+### Quotes
+> If you want to shine like a sun, first burn like a sun
+* A.P.J.Abdul Kalam*
+
+> It is never too late to be what you might have been
+* Swami Vivekananda*
