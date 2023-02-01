@@ -17,4 +17,4 @@ Portugal National Football team
 * Seattle Seahawks
 * Kansas City Chiefs
 
-[Linked my pic to the file for display] (Aboutme.md)
+[Linked my pic to the file for display](Aboutme.md)
