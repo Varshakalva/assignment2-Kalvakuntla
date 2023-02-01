@@ -17,10 +17,10 @@ This table consists of Countries which i would recommed others to visit for thei
 ---
 ### Quotes
 > If you want to shine like a sun, first burn like a sun
-* A.P.J.Abdul Kalam*
+*A.P.J.Abdul Kalam*
 
 > It is never too late to be what you might have been
-* Swami Vivekananda*
+*Swami Vivekananda*
 
 ---
 ### Code Fencing
