@@ -27,7 +27,7 @@ This table consists of Countries which i would recommed others to visit for thei
 
  Questions tagged [jquery] ?
 
- Code :https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/
+ [Code]: (https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
 
 ```
 $("#slideshow > div:gt(0)").hide();
@@ -42,5 +42,17 @@ setInterval(function() {
 }, 3000);
 
 ```
+```
+$("#slideshow > div:gt(0)").hide();
 
-code snippet: https://stackoverflow.com/questions/tagged/jquery
+setInterval(function() { 
+  $('#slideshow > div:first')
+  .fadeOut(1000)
+  .next()
+  .fadeIn(1000)
+  .end()
+  .appendTo('#slideshow');
+}, 3000);
+
+```
+[code snippet:] (https://stackoverflow.com/questions/tagged/jquery)
