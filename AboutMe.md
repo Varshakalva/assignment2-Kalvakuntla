@@ -25,9 +25,9 @@ This table consists of Countries which i would recommed others to visit for thei
 ---
 ### Code Fencing
 
- Questions tagged [jquery] ?
+ > Questions tagged [jquery] ?
 
- [Code]: (https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
+ [Code] (https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
 
 ```
 $("#slideshow > div:gt(0)").hide();
@@ -55,4 +55,4 @@ setInterval(function() {
 }, 3000);
 
 ```
-[code snippet:] (https://stackoverflow.com/questions/tagged/jquery)
+[code snippet](https://stackoverflow.com/questions/tagged/jquery)
