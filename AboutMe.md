@@ -27,7 +27,7 @@ This table consists of Countries which i would recommed others to visit for thei
 
  > Questions tagged [jquery] ?
 
- [Code](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
+ [link to the above Question for jquery](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
 
 ```
 $("#slideshow > div:gt(0)").hide();
@@ -55,4 +55,4 @@ setInterval(function() {
 }, 3000);
 
 ```
-[code snippet](https://stackoverflow.com/questions/tagged/jquery)
+[Above code snippet related info](https://stackoverflow.com/questions/tagged/jquery)
