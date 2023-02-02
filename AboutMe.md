@@ -27,7 +27,7 @@ This table consists of Countries which i would recommed others to visit for thei
 
  > Questions tagged [jquery] ?
 
- [Code] (https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
+ [Code](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
 
 ```
 $("#slideshow > div:gt(0)").hide();
